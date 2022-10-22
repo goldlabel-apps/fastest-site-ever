@@ -1,2 +1,7 @@
-# fastest-site-ever
-You want a fast site? You want CMS? Here's how.
+# Fastest Site Ever
+
+You want a super-fast site? 
+
+You want CMS? 
+
+Here's how.
