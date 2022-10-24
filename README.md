@@ -2,8 +2,8 @@
 
 > If you need a super-fast site and you want CMS features, what are your options? 
 
-[Demo](https://fastest-site-ever.web.app/)
-[Demo PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Ffastest-site-ever.web.app%2F)
+- [Demo](https://fastest-site-ever.web.app/)
+- [Demo PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Ffastest-site-ever.web.app%2F)
 
 ## Google [PageSpeed](https://pagespeed.web.dev) Insights
 
