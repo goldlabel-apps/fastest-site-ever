@@ -3,6 +3,7 @@
   "name": "fastest-site-ever",
   "description": "You want a super-fast site? You want CMS? Here's how.",
   "scripts": {
+    "start": "clear && npx serve -p 1901 dist",
     "deploy": "clear && firebase deploy"
   },
   "repository": {
