@@ -1,3 +1,0 @@
-# Fastest Site Ever
-
-## public
