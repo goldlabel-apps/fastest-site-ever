@@ -1,9 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "fastest-site-ever",
   "description": "You want a super-fast site? You want CMS? Here's how.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "clear && firebase deploy"
   },
   "repository": {
     "type": "git",
