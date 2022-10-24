@@ -7,19 +7,18 @@
 
 ## Google [PageSpeed](https://pagespeed.web.dev) Insights
 
-PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.
+PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved
+
+PSI provides both lab and field data about a page. Lab data is useful for debugging performance issues, as it is collected in a controlled environment. However, it may not capture real-world bottlenecks. Field data is useful for capturing true, real-world user experience - but has a more limited set of metrics
 
 - [amazon.com](https://pagespeed.web.dev/report?url=https%3A%2F%2Famazon.com%2F)
 - [dt9affiliations](https://pagespeed.web.dev/report?url=https%3A%2F%2Fdt9affiliations.com%2Fen%2F)
-- [divemalta](https://pagespeed.web.dev/report?url=https%3A%2F%2Fdivemalta.app%2F)
 - [comparabet](https://pagespeed.web.dev/report?url=https%3A%2F%2Fcomparabet.it%2F)
-
-PSI provides both lab and field data about a page. Lab data is useful for debugging performance issues, as it is collected in a controlled environment. However, it may not capture real-world bottlenecks. Field data is useful for capturing true, real-world user experience - but has a more limited set of metrics
 
 
 #### PageSpeed Audits 
 
-This are the critera that are used to judge how optimised pages are
+This are some critera used to judge how optimised for speed a page is
 
 - Eliminate render-blocking resources
 - Properly size images
