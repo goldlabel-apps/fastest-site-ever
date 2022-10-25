@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="450px" viewBox="0 0 800 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>featuredImage</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="featuredImage">
+            <rect id="Rectangle" fill="#DDEEFF" x="0" y="0" width="800" height="450"></rect>
+            <path d="M176.490557,97 L28.7808687,97 C21.1485761,97 13.8280253,100.027657 8.43029378,105.423618 C3.0325623,110.819579 2.84217094e-14,118.139135 2.84217094e-14,125.771428 L2.84217094e-14,346.726916 L110.978199,235.75816 L74.0012034,198.800049 L234.023966,198.800049 L234.023966,358.85114 L197.698507,322.52568 L70.2241865,450 L176.481114,450 C273.956765,450 352.976392,370.980372 352.976392,273.504722 C352.976392,176.029072 273.956765,97.0094441 176.481114,97.0094441" id="Tracciato_27" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
