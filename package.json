@@ -1,9 +1,9 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "fastest-site-ever",
   "description": "You want a super-fast site? You want CMS? Here's how.",
   "scripts": {
-    "start": "clear && npx serve -p 1901 dist",
+    "start": "clear && npx serve -p 1003 dist",
     "deploy": "clear && firebase deploy"
   },
   "repository": {
