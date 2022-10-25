@@ -46,6 +46,7 @@
       }
       .featuredImage{
         max-width: 100%;
+        margin-bottom: 16px;
       }
       #message { 
         background: white; 
@@ -54,16 +55,7 @@
         padding: 32px 24px; 
         border-radius: 3px; 
     }
-      #message h2 { 
-        color: #0066FF; 
-        font-size: 16px; 
-        margin: 0 0 8px; 
-      }
-      #message h1 { 
-        font-size: 22px; 
-        color: rgba(0,0,0,0.6); 
-        margin: 0 0 16px;
-      }
+      
       #message p { 
         line-height: 140%; 
         margin: 16px 0 24px; 
@@ -72,6 +64,18 @@
       #message, #message .button { 
         box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); 
       }
+
+      #message h2 { 
+        color: #ca0e1a; 
+        font-size: 16px; 
+        margin: 0 0 8px; 
+      }
+      #message h1 { 
+        font-size: 20px; 
+        color: #ca0e1a; 
+        margin: 0 0 16px;
+      }
+
       @media (max-width: 600px) {
         body, #message { 
           margin-top: 0; 
@@ -79,7 +83,7 @@
           box-shadow: none; 
         }
         body { 
-          border-top: 16px solid #BBDDFF; 
+          border-top: 16px solid #3B465B; 
         }
       }
     </style>
@@ -89,6 +93,8 @@
       <h2>DT9 Presents</h2>
       <h1>The Fastest Site Ever</h1>
       <img class="featuredImage" src="/svg/featuredImage.svg" />
+      
+      <h2>Page Speed Insights</h2>
       <p>
         <a target="_blank" href="https://pagespeed.web.dev/report?url=https://fastest-site-ever.web.app/">
           <img src="/svg/pagespeed-insights.svg" width="50" height="50" align="left" hspace="10"/>
